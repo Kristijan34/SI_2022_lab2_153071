@@ -1,0 +1,9 @@
+
+0
+java:S1220""Move this file to a named package.
+V
+java:S1118":Add a private constructor to hide the implicit public one.(ŸÎ×8à‹É¾Œ0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(È«—‹8ˆéâ¾Œ0
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ÖçŸã8‰éâ¾Œ0
